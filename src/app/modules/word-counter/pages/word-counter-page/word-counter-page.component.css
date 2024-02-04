@@ -1,0 +1,9 @@
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+  margin: 0 0.25em;
+}
